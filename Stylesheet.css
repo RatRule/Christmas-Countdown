@@ -1,0 +1,24 @@
+body{
+	font-family:"Garamond";
+	background-color:#010822;
+	background-image:url('Background.jpg');
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color:white;
+}
+.countdowncontainer{
+	
+	margin:0 auto;
+	width:800px;
+	margin-top:20%;
+	text-align:center;
+	padding:10px;
+	background-color:black;
+	
+	font-size:150%;
+	box-shadow: 0 0 5px 3px #888888;
+}
+	
+	
